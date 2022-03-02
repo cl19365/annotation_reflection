@@ -19,7 +19,7 @@ public class Test01 extends Object{
 
 }
 
-//实体类po
+//实体类pojo
 class User{
     private String name;
     private int id;
